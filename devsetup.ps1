@@ -7,6 +7,8 @@ choco install dotnet-5.0-sdk -y
 choco install git /WindowsTerminal -y
 choco install vscode -y
 choco install wsl2 -y
+choco install azure-cli -y
+choco install terraform -y
 choco install docker-desktop -y
 
 # Add "open windows terminal here" context menu item
